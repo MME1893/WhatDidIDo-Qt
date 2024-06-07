@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/3afda9fff30a7e792a9fdf819267a536.jpg</file>
+        <file>image/images.jpg</file>
+        <file>image/loading4.gif</file>
+        <file>image/splashBG.jpg</file>
+        <file>image/splashBG1.jpg</file>
+        <file>image/splashMask.bmp</file>
+        <file>image/logo.jpg</file>
+    </qresource>
+    <qresource prefix="/qml">
+        <file>Widgets/SplashScreen/splash.qml</file>
+    </qresource>
+</RCC>
